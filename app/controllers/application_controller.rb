@@ -1,8 +1,7 @@
 class ApplicationController < ActionController::Base
 
   def index
-    puts "aiueo"
-    puts " i am master!!!!!!!!!!"
+    puts "I am sample2!!!!!!!!!"
   end
 
 end
